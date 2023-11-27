@@ -77,26 +77,32 @@ The Kenya Education in Emergencies Working Group (EiE WG) — a coordination bod
 
 <br><br><br>
 
-# Key Datasets
+# **Key Datasets**
 
 <br>
 
-## Geospatial datasets
+## **Geospatial datasets**
 
 <br>
 
 ### **[Locations and Pcodes](https://github.com/kenya-eie-wg/eie_wg_5ws/raw/main/data/ken_adminboundaries_tabulardata_v2.xlsx)**
 Counties and constituencies and corresponding Pcodes from the National Gazette. 
 
+<br>
+
 ### **[Shapefiles](https://data.humdata.org/m/dataset/cod-ab-ken?)**
 Kenyan Subnational boundaries, from OCHA. 
+
+<br>
 
 ### **[All towns Shapefile data](https://geodata.arin-africa.org/layers/my_geonode_data:geonode:kenya_all_towns)**
 From the Africa Research and Impact Network. Select "Original Dataset" when downloading layer. 
 
 <br><br><br>
 
-## 5Ws and results reporting
+## **5Ws and results reporting**
+
+<br>
 
 ### **[5Ws CSV](https://github.com/kenya-eie-wg/eie_wg_5ws/blob/main/data/eie_5ws.csv)** 
 [Raw version](https://raw.githubusercontent.com/kenya-eie-wg/eie_wg_5ws/main/data/eie_5ws.csv)
