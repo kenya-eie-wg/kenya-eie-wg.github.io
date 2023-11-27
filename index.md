@@ -53,10 +53,12 @@ The Kenya Education in Emergencies Working Group (EiE WG) — a coordination bod
 <br>
 
 ### **[October 2023 5Ws report](https://kenya-eie-wg.github.io/eie_wg_5ws/reporting_oct2023.html)**
+31 October 2023.
 
 <br>
 
 ### **[September 2023 5Ws report](https://kenya-eie-wg.github.io/eie_wg_5ws/reporting_sep2023.html)**
+29 September 2023. 
 
 <br>
 
