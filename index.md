@@ -36,7 +36,7 @@ The Kenya Education in Emergencies Working Group (EiE WG) — a coordination bod
 
 ## Next Coordination Meeting 
 
-**9 September 2023 - 1000-1200 NBO time**
+**30 November 2023 - 1000-1200 NBO time**
 
 <br>
 
@@ -52,20 +52,79 @@ The Kenya Education in Emergencies Working Group (EiE WG) — a coordination bod
 
 <br>
 
+### **[October 2023 5Ws report](https://kenya-eie-wg.github.io/eie_wg_5ws/reporting_oct2023.html)**
+
+<br>
+
+### **[September 2023 5Ws report](https://kenya-eie-wg.github.io/eie_wg_5ws/reporting_sep2023.html)**
+
+<br>
+
 ### **[5Ws Report August 2023](https://kenya-eie-wg.github.io/eie_wg_5ws/)**
 28 August 2023. Monthly report on August data reported on August 28 2022. 
 
-<br><br><br>
+<br>
 
 ### **[5Ws Report July 2023](https://kenya-eie-wg.github.io/eie_wg_5ws/reporting_jul2023.html)**
 28 July 2023. Monthly report on July data reported on July 28 2022. 
 
-<br><br><br>
+<br>
 
 ### **[5Ws Report June 2023](https://kenya-eie-wg.github.io/eie_wg_5ws/reporting_jun2023.html)**
 28 June 2023. Monthly report on June data reported on June 28 2022. 
 
 <br><br><br>
+
+# Key Datasets
+
+<br>
+
+## Geospatial datasets
+
+<br>
+
+### **[Locations and Pcodes](https://github.com/kenya-eie-wg/eie_wg_5ws/raw/main/data/ken_adminboundaries_tabulardata_v2.xlsx)**
+Counties and constituencies and corresponding Pcodes from the National Gazette. 
+
+### **[Shapefiles](https://data.humdata.org/m/dataset/cod-ab-ken?)**
+Kenyan Subnational boundaries, from OCHA. 
+
+### **[All towns Shapefile data](https://geodata.arin-africa.org/layers/my_geonode_data:geonode:kenya_all_towns)**
+From the Africa Research and Impact Network. Select "Original Dataset" when downloading layer. 
+
+<br><br><br>
+
+## 5Ws and results reporting
+
+### **[5Ws CSV](https://github.com/kenya-eie-wg/eie_wg_5ws/blob/main/data/eie_5ws.csv)** 
+[Raw version](https://raw.githubusercontent.com/kenya-eie-wg/eie_wg_5ws/main/data/eie_5ws.csv)
+
+<br>
+
+### **[5Ws Template](https://github.com/kenya-eie-wg/eie_wg_5ws/raw/main/data/eie_5ws_template_v3_20230828.xlsx)**
+
+<br>
+
+### **[UNICEF sitrep (deprecated)](https://github.com/kenya-eie-wg/eie_wg_5ws/blob/main/data/old_table_eie_match.csv)**
+UNICEF reporting template for internal sitrep deprecated. Template has been merged with the 5Ws template. This file contains the breakdowns of these activities, in a format that can be matched with the 5Ws. These will be useful if disaggregations are required for activities reported under the old template before October 2023. 
+
+<br>
+
+## **[County-level Education Indicators -- Table version](https://github.com/kenya-eie-wg/kenya_education_county_profiles/blob/main/data/counties_spreadsheet.csv)**
+[Table version raw](https://raw.githubusercontent.com/kenya-eie-wg/kenya_education_county_profiles/main/data/counties_spreadsheet.csv)
+
+<br>
+
+## **[County-level Education Indicators](https://github.com/kenya-eie-wg/kenya_county_profiles_dashboard/blob/main/data/counties.csv)**
+[Raw version](https://raw.githubusercontent.com/kenya-eie-wg/kenya_county_profiles_dashboard/main/data/counties.csv)
+
+<br>
+
+## **[Integrated Food Security Phase Classification data](https://www.ipcinfo.org/ipc-country-analysis/details-map/en/c/1156541/?iso3=KEN)**
+
+
+<br><br><br>
+
 
 
 # **[County Dashboards](https://seanywng.shinyapps.io/kenya_county_profiles_dashboard/)**
