@@ -42,8 +42,8 @@ The Kenya Education in Emergencies Working Group (EiE WG) — a coordination bod
 
 ## New releases
 
-**[* 5Ws Report August 2023](https://kenya-eie-wg.github.io/eie_wg_5ws/).**
-28 August 2023. Monthly report on August data reported on August 28 2022. 
+**[5Ws Report October 2023](https://kenya-eie-wg.github.io/eie_wg_5ws/).**
+Monthly report, data reported on 31 October 2023. 
 
 
 <br><br><br>
@@ -131,11 +131,10 @@ UNICEF reporting template for internal sitrep deprecated. Template has been merg
 ## **[Integrated Food Security Phase Classification data](https://www.ipcinfo.org/ipc-country-analysis/details-map/en/c/1156541/?iso3=KEN)**
 
 
-<br><br><br>
+<br><br>
 
 
-
-# **[County Dashboards](https://seanywng.shinyapps.io/kenya_county_profiles_dashboard/)**
+## **[County Dashboards](https://seanywng.shinyapps.io/kenya_county_profiles_dashboard/)**
 As commissioned by UNICEF.
 
 <br>
