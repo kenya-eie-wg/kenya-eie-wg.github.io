@@ -42,15 +42,22 @@ The Kenya Education in Emergencies Working Group (EiE WG) — a coordination bod
 
 ## New releases
 
+<br>
+
+**[2023 Flood Resources](https://kenya-eie-wg.github.io/kenya_floods/)**
+Includes maps and OCHA live dataset. 
+
 **[5Ws Report October 2023](https://kenya-eie-wg.github.io/eie_wg_5ws/).**
 Monthly report, data reported on 31 October 2023. 
 
 
 <br><br><br>
 
-# **5W Reports**
+# **Reports**
 
 <br>
+
+## 5Ws
 
 ### **[October 2023 5Ws report](https://kenya-eie-wg.github.io/eie_wg_5ws/reporting_oct2023.html)**
 31 October 2023.
@@ -74,6 +81,12 @@ Monthly report, data reported on 31 October 2023.
 
 ### **[5Ws Report June 2023](https://kenya-eie-wg.github.io/eie_wg_5ws/reporting_jun2023.html)**
 28 June 2023. Monthly report on June data reported on June 28 2022. 
+
+<br><br><br>
+
+## Kenya Certificate of Secondary Education (KCSE) Analysis
+
+### **[Exploratory Data Analysis of KCSE Results in Dadaab, Kakuma and Kalobeyei](https://kenya-eie-wg.github.io/kcse_results_public/report)**
 
 <br><br><br>
 
@@ -118,13 +131,20 @@ UNICEF reporting template for internal sitrep deprecated. Template has been merg
 
 <br>
 
-## **[County-level Education Indicators -- Table version](https://github.com/kenya-eie-wg/kenya_education_county_profiles/blob/main/data/counties_spreadsheet.csv)**
+## **County-level Indicators**
+
+### **[County-level Education Indicators -- Table version](https://github.com/kenya-eie-wg/kenya_education_county_profiles/blob/main/data/counties_spreadsheet.csv)**
 [Table version raw](https://raw.githubusercontent.com/kenya-eie-wg/kenya_education_county_profiles/main/data/counties_spreadsheet.csv)
 
 <br>
 
-## **[County-level Education Indicators](https://github.com/kenya-eie-wg/kenya_county_profiles_dashboard/blob/main/data/counties.csv)**
+### **[County-level Education Indicators](https://github.com/kenya-eie-wg/kenya_county_profiles_dashboard/blob/main/data/counties.csv)**
 [Raw version](https://raw.githubusercontent.com/kenya-eie-wg/kenya_county_profiles_dashboard/main/data/counties.csv)
+
+<br>
+
+## **[KCSE Dadaab, Kakuma and Kalobeyei raw data Anonymised](https://github.com/kenya-eie-wg/kcse_results_public/blob/main/data/kcse.csv)**
+[Raw version](https://raw.githubusercontent.com/kenya-eie-wg/kcse_results_public/main/data/kcse.csv)
 
 <br>
 
@@ -133,9 +153,19 @@ UNICEF reporting template for internal sitrep deprecated. Template has been merg
 
 <br><br>
 
+# **Project References**
 
-## **[County Dashboards](https://seanywng.shinyapps.io/kenya_county_profiles_dashboard/)**
-As commissioned by UNICEF.
+<br>
+
+## **[Operation Come to School](https://kenya-eie-wg.github.io/operation_come_to_school_public/)**
+
+<br>
+
+## **[County Dashboards](https://github.com/kenya-eie-wg/kenya_education_county_profiles/tree/main/pdf)**
+Online folder of PDFs
+[PNG versions](https://github.com/kenya-eie-wg/kenya_education_county_profiles/tree/main/img)
+[Code for online dashboard](https://github.com/kenya-eie-wg/kenya_county_profiles_dashboard)
+
 
 <br>
 
