@@ -104,12 +104,23 @@ Counties and constituencies and corresponding Pcodes from the National Gazette.
 <br>
 
 ### **[Shapefiles](https://data.humdata.org/m/dataset/cod-ab-ken?)**
-Kenyan Subnational boundaries, from OCHA. 
+Kenyan Subnational boundaries, from OCHA. Admin 1 are counties. Admin 2 are constituencies. 
+
+[Alternate shapefiles with sub-county borders](https://geodata.arin-africa.org/layers/geonode:ke_subcounty). Verification and matching needed. 
 
 <br>
 
 ### **[All towns Shapefile data](https://geodata.arin-africa.org/layers/my_geonode_data:geonode:kenya_all_towns)**
-From the Africa Research and Impact Network. Select "Original Dataset" when downloading layer. 
+From the Africa Research and Impact Network. Select "Original Dataset" when downloading layer. Towns, cities, trading hubs and markets. 
+
+<br>
+
+### **[Kenya Rivers shapefile](http://geoportal.rcmrd.org/layers/servir%3Akenya_major_rivers)**
+
+<br>
+
+### **[RKenyaCenus](https://github.com/Shelmith-Kariuki/rKenyaCensus)**
+R package containing the 2019 Kenya Population and Housing Census results. Developer [website](https://shelkariuki.netlify.app/post/rkenyacensus/). 
 
 <br><br><br>
 
@@ -126,7 +137,7 @@ From the Africa Research and Impact Network. Select "Original Dataset" when down
 
 <br>
 
-### **[UNICEF sitrep (deprecated)](https://github.com/kenya-eie-wg/eie_wg_5ws/blob/main/data/old_table_eie_match.csv)**
+### **[UNICEF sitrep reporting(deprecated)](https://github.com/kenya-eie-wg/eie_wg_5ws/blob/main/data/old_table_eie_match.csv)**
 UNICEF reporting template for internal sitrep deprecated. Template has been merged with the 5Ws template. This file contains the breakdowns of these activities, in a format that can be matched with the 5Ws. These will be useful if disaggregations are required for activities reported under the old template before October 2023. 
 
 <br>
@@ -157,6 +168,11 @@ UNICEF reporting template for internal sitrep deprecated. Template has been merg
 
 <br>
 
+## **[2023 Flood Resources](https://kenya-eie-wg.github.io/kenya_floods/)**
+Includes maps and OCHA live dataset.
+
+<br>
+
 ## **[Operation Come to School](https://kenya-eie-wg.github.io/operation_come_to_school_public/)**
 
 <br>
@@ -167,5 +183,13 @@ Online folder of PDFs
 [Code for online dashboard](https://github.com/kenya-eie-wg/kenya_county_profiles_dashboard)
 
 
+<br><br><br>
+
+# **Links**
+
+### **[Kenya EiE WG Github repositories](https://github.com/orgs/kenya-eie-wg/repositories)**
+
 <br>
+
+
 
