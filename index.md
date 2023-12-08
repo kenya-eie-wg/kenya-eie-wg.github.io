@@ -47,8 +47,8 @@ The Kenya Education in Emergencies Working Group (EiE WG) — a coordination bod
 **[2023 Flood Resources](https://kenya-eie-wg.github.io/kenya_floods/)**
 Includes maps and OCHA live dataset. 
 
-**[5Ws Report October 2023](https://kenya-eie-wg.github.io/eie_wg_5ws/).**
-Monthly report, data reported on 31 October 2023. 
+**[5Ws Report November 2023](https://kenya-eie-wg.github.io/eie_wg_5ws/).**
+Monthly report, data reported on 30 November 2023. 
 
 
 <br><br><br>
@@ -58,6 +58,11 @@ Monthly report, data reported on 31 October 2023.
 <br>
 
 ## 5Ws
+
+### **[November 2023 5Ws report](https://kenya-eie-wg.github.io/eie_wg_5ws/reporting_nov2023.html)**
+31 October 2023.
+
+<br>
 
 ### **[October 2023 5Ws report](https://kenya-eie-wg.github.io/eie_wg_5ws/reporting_oct2023.html)**
 31 October 2023.
@@ -178,8 +183,8 @@ Includes maps and OCHA live dataset.
 <br>
 
 ## **[County Dashboards](https://github.com/kenya-eie-wg/kenya_education_county_profiles/tree/main/pdf)**
-Online folder of PDFs
-[PNG versions](https://github.com/kenya-eie-wg/kenya_education_county_profiles/tree/main/img)
+Online folder of PDFs.
+[PNG versions](https://github.com/kenya-eie-wg/kenya_education_county_profiles/tree/main/img).
 [Code for online dashboard](https://github.com/kenya-eie-wg/kenya_county_profiles_dashboard)
 
 
