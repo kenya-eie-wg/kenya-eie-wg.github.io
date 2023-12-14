@@ -106,6 +106,8 @@ Monthly report, data reported on 30 November 2023.
 ### **[Locations and Pcodes](https://github.com/kenya-eie-wg/eie_wg_5ws/raw/main/data/ken_adminboundaries_tabulardata_v2.xlsx)**
 Counties and constituencies and corresponding Pcodes from the National Gazette. 
 
+Notes about the locations data [here](https://kenya-eie-wg.github.io/kenya_locations/), including on matching between sub-counties and constituencies. 
+
 <br>
 
 ### **[Shapefiles](https://data.humdata.org/m/dataset/cod-ab-ken?)**
@@ -147,7 +149,17 @@ UNICEF reporting template for internal sitrep deprecated. Template has been merg
 
 <br>
 
-## **County-level Indicators**
+## **Other key datasets**
+
+### **[Poverty incidence](https://github.com/kenya-eie-wg/kenya_locations/blob/main/data/poverty.csv)**
+County-level poverty-incidence and counts, from the 2019 census. 
+
+<br>
+
+### **[Census Demographic data](https://github.com/kenya-eie-wg/kenya_locations/blob/main/data/census_adm2_incomplete.csv)**
+Matching is incomplete between constituency pcodes and sub-county pcodes. 
+
+<br>
 
 ### **[County-level Education Indicators -- Table version](https://github.com/kenya-eie-wg/kenya_education_county_profiles/blob/main/data/counties_spreadsheet.csv)**
 [Table version raw](https://raw.githubusercontent.com/kenya-eie-wg/kenya_education_county_profiles/main/data/counties_spreadsheet.csv)
@@ -159,12 +171,12 @@ UNICEF reporting template for internal sitrep deprecated. Template has been merg
 
 <br>
 
-## **[KCSE Dadaab, Kakuma and Kalobeyei raw data Anonymised](https://github.com/kenya-eie-wg/kcse_results_public/blob/main/data/kcse.csv)**
+### **[KCSE Dadaab, Kakuma and Kalobeyei raw data Anonymised](https://github.com/kenya-eie-wg/kcse_results_public/blob/main/data/kcse.csv)**
 [Raw version](https://raw.githubusercontent.com/kenya-eie-wg/kcse_results_public/main/data/kcse.csv)
 
 <br>
 
-## **[Integrated Food Security Phase Classification data](https://www.ipcinfo.org/ipc-country-analysis/details-map/en/c/1156541/?iso3=KEN)**
+### **[Integrated Food Security Phase Classification data](https://www.ipcinfo.org/ipc-country-analysis/details-map/en/c/1156541/?iso3=KEN)**
 
 
 <br><br>
@@ -186,6 +198,11 @@ Includes maps and OCHA live dataset.
 Online folder of PDFs.
 [PNG versions](https://github.com/kenya-eie-wg/kenya_education_county_profiles/tree/main/img).
 [Code for online dashboard](https://github.com/kenya-eie-wg/kenya_county_profiles_dashboard)
+
+<br>
+
+## **[EiE WG Mailing list](https://github.com/kenya-eie-wg/operation_come_to_school/blob/main/data/eie_wg_contact_list.csv)**
+Private file, only available to the owners of the Kenya EiE WG github organisation. Request access from the Coordinator. 
 
 
 <br><br><br>
