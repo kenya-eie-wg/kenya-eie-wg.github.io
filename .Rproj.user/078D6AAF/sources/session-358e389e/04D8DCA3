@@ -3,7 +3,7 @@
     "path": "~/R/kenya-eie-wg.github.io/index.md",
     "project_path": "index.md",
     "type": "markdown",
-    "hash": "2027725946",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1695876399146.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "108,151",
-        "scrollLine": "94"
+        "cursorPosition": "66,92",
+        "scrollLine": "43"
     },
     "folds": "",
-    "lastKnownWriteTime": 1702565143,
+    "lastKnownWriteTime": 1704696083,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1702565143474,
+    "last_content_update": 1704696083,
     "read_only": false,
     "read_only_alternatives": []
 }

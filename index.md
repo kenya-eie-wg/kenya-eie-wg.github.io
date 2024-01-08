@@ -59,8 +59,13 @@ Monthly report, data reported on 30 November 2023.
 
 ## 5Ws
 
+### **[December 2023 5Ws report](https://kenya-eie-wg.github.io/eie_wg_5ws/reporting_dec2023.html)**
+31 December 2023.
+
+<br>
+
 ### **[November 2023 5Ws report](https://kenya-eie-wg.github.io/eie_wg_5ws/reporting_nov2023.html)**
-31 October 2023.
+30 November 2023.
 
 <br>
 
